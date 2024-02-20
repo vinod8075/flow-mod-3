@@ -54,4 +54,3 @@ Developers can utilize this script to query and retrieve student profiles from t
 
 ---
 
-Feel free to customize this README based on your specific project details and requirements.
