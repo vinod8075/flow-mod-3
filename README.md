@@ -1,4 +1,4 @@
-Certainly! Here's a simple README for the provided Move language smart contract and transaction scripts:
+
 
 ---
 
